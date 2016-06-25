@@ -16,6 +16,7 @@ Supported Slider Plugins
 - LayerSlider - http://goo.gl/fVlaL2
 - Royal Touch Slider - http://goo.gl/Ni0r0a
 - Revolution Slider - http://goo.gl/7dfXD7
+- Smart Slider - http://nextendweb.com/smart-slider/
 
 Note: You must own and have the slider plugins activated to create custom fields for the slider.
 
